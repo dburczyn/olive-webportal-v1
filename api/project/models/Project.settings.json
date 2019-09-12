@@ -45,12 +45,12 @@
       "default": "default project description",
       "type": "text"
     },
+    "AlternatePictureUrl": {
+      "type": "string"
+    },
     "textcards": {
       "collection": "textcard",
       "via": "projects"
-    },
-    "AlternatePictureUrl": {
-      "type": "string"
     }
   }
 }
