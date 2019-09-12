@@ -48,6 +48,9 @@
     "textcards": {
       "collection": "textcard",
       "via": "projects"
+    },
+    "AlternatePictureUrl": {
+      "type": "string"
     }
   }
 }
